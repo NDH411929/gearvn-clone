@@ -1,4 +1,0 @@
-Các thư viện
-//https://www.npmjs.com/package/mongoose-slug-updater
-//https://www.npmjs.com/package/multer
-//Deploy code bai 26,27
